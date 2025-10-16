@@ -1,6 +1,6 @@
 #  English Handwritten Character Recognition
 
-A deep learning–powered application for recognizing **English handwritten characters (A–Z) and (0-1)**.  
+A deep learning–powered application for recognizing **English handwritten characters (A–Z), (a-z) and (0-1)**.  
 It provides an intuitive **Tkinter-based GUI** where users can either **draw** characters or **upload images** and instantly receive predictions with confidence scores.
 
 ---
@@ -82,8 +82,21 @@ The system correctly recognizes the handwritten character “q” with 98.84% co
 
 <img width="720" height="720" alt="Screenshot 2025-08-29 234634" src="https://github.com/user-attachments/assets/66144d64-e75e-42ca-b734-a81c7df60de7" />
 
-The system correctly recognizes the handwritten character “j” with 99.87% confidence.
+The system correctly recognizes the handwritten character “j” with 92.97% confidence.
 
+<img width="1920" height="1080" alt="Screenshot 2025-10-10 083645" src="https://github.com/user-attachments/assets/596524b6-776a-4ba7-bab2-c63e3b09545b" />
+
+The system correctly recognizes the handwritten character “8” with 40.40% confidence.
+
+<img width="1920" height="1080" alt="Screenshot 2025-10-10 083609" src="https://github.com/user-attachments/assets/6bce6de9-05ec-4098-b0ac-01c5796c7f3f" />
+
+The system correctly recognizes the handwritten character “4” with 33.01% confidence.
+
+<img width="1920" height="1080" alt="Screenshot 2025-10-10 083559" src="https://github.com/user-attachments/assets/67007fd7-9610-45d3-a513-911795488f66" />
+
+The system correctly recognizes the handwritten character “6” with 77.40% confidence.
+
+Some of the results!!!
 ---
 
 ## 📊 Model Details
